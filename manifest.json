@@ -4,8 +4,10 @@
   "author": "Lorenzo",
   "version": "1.0",
   "description": "ebe",
-  "images": ["https://ibb.co/rRcFkd8q"],
+  "images": ["https://i.ibb.co/xxxxxxx/filename.jpg"],
   "downloadParts": [
+    "https://github.com/DmitriyGnatyk/reduxapp/releases/download/v1.0/redux.zip.001",
+    "https://github.com/DmitriyGnatyk/reduxapp/releases/download/v1.0/redux.zip.002"
   ],
   "fileSize": 2754824192
 }
