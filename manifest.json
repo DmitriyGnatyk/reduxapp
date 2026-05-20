@@ -1,15 +1,13 @@
 {
-  "version": 1,
-  "reduxes": [
-    {
-      "id": "kefeme-v1",
-      "name": "Kefeme Redux",
-      "author": "sxnt",
-      "version": "1.0",
-      "description": "Опис редуксу тут",
-      "images": [],
-      "downloadUrl": "СЮДИ_ПОСИЛАННЯ_НА_ZIP",
-      "fileSize": 2754824192
-    }
-  ]
+  "id": "kefteme-v1",
+  "name": "Kefteme Redux",
+  "author": "...",
+  "version": "1.0",
+  "description": "...",
+  "images": [],
+  "downloadParts": [
+    "https://github.com/DmitriyGnatyk/твій-репо/releases/download/v1.0/redux.zip.001",
+    "https://github.com/DmitriyGnatyk/твій-репо/releases/download/v1.0/redux.zip.002"
+  ],
+  "fileSize": 2754824192
 }
