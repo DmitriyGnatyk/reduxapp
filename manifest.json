@@ -2,11 +2,11 @@
   "version": 1,
   "reduxes": [
     {
-      "id": "kefteme-v1",
+      "id": "kefteme",
       "name": "Kefteme Redux",
       "author": "Lorenzo",
-      "version": "1.0",
-      "description": "Опис",
+      "version": "1.1",
+      "description": "ебе",
       "images": ["https://i.postimg.cc/SK8VBDm5/maxresdefault.jpg"],
       "downloadParts": [],
       "fileSize": 2754824192
