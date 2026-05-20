@@ -2,14 +2,14 @@
   "version": 1,
   "reduxes": [
     {
-      "id": "kefeme-v1",
-      "name": "Kefeme Redux",
-      "author": "sxnt",
+      "id": "kefteme-v1",
+      "name": "Kefteme Redux",
+      "author": "Lorenzo",
       "version": "1.0",
-      "description": "Опис редуксу тут",
-      "images": [],
-      "downloadUrl": "СЮДИ_ПОСИЛАННЯ_НА_ZIP",
-      "fileSize": 524288000
+      "description": "Опис",
+      "images": ["https://i.postimg.cc/SK8VBDm5/maxresdefault.jpg"],
+      "downloadParts": [],
+      "fileSize": 2754824192
     }
   ]
 }
